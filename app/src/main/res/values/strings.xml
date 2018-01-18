@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WhatInThe\nWeather</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="humidity">Humidity</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="temperature">Temperature (F)</string>
+    <string name="wind">Wind Speed</string>
+
+    <string name="nexttendays">Next 10 Days</string>
+
+    <string name="obtaining_weather_info">Obtaining Weather Info</string>
+    <string name="obtaining_weather_info_failure">Failed To Obtain Weather Info</string>
+
+    <string name="returnToMainButton">Return</string>
+
+
+    <string name="refresh">Refresh</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

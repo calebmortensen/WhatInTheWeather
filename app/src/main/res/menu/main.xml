@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        android:title="Refresh"
+
+        android:textAlignment="gravity"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/world"
+        android:orderInCategory="200"
+        android:title="World"
+
+        android:textAlignment="gravity"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/google"
+        android:orderInCategory="300"
+        android:title="Google"
+        android:textAlignment="gravity"
+        app:showAsAction="never" />
+
+
+</menu>
